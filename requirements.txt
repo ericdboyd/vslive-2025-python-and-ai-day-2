@@ -1,0 +1,32 @@
+apricot-select==0.6.1
+colorama==0.4.6
+filelock==3.18.0
+fsspec==2025.3.0
+Jinja2==3.1.6
+joblib==1.4.2
+llvmlite==0.44.0
+markovify
+MarkupSafe==3.0.2
+mpmath==1.3.0
+nltk
+networkx==3.4.2
+nose==1.3.7
+numba==0.61.0
+numpy==2.1.3
+opencv_python
+Pillow==9.4.0
+pomegranate==1.1.2
+pygame
+python-constraint
+scikit-learn==1.6.1
+scipy==1.15.2
+sympy==1.13.1
+# tensorflow==2.12.0rc1
+# tensorflow_intel==2.12.0rc1
+tensorflow
+tensorflow_intel
+termcolor
+threadpoolctl==3.6.0
+torch==2.6.0
+tqdm==4.67.1
+typing_extensions==4.12.2
